@@ -6,7 +6,7 @@ public class GroupStudy {
 		// TODO Auto-generated method stub
 String d = "ahmad";
 		String b = "Rohollah";
-		
+		String f = "Sayed";
 	}
 
 }
